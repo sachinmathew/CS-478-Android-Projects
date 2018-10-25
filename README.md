@@ -1,4 +1,4 @@
-# CS-478-SDMP-Android-Projects
+#
 
 
 Question
