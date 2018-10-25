@@ -1,5 +1,5 @@
 # CS-478-SDMP-Android-Projects
-These are my android projects developed as part of Software development for mobile platforms course
+
 
 Question
 _______________
